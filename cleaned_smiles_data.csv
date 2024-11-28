@@ -1,0 +1,4 @@
+Drug Name,CID,Canonical SMILES
+Aspirin,2244,CC(=O)OC1=CC=CC=C1C(=O)O
+Paracetamol,1983,CC(=O)NC1=CC=C(C=C1)O
+Ibuprofen,3672,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
